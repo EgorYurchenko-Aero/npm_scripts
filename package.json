@@ -28,14 +28,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElizavetaKoroleva/npm-scripts.git"
+    "url": "git+https://github.com/EgorYurchenko-Aero/npm_scripts.git"
   },
-  "author": "Elizaveta Koroleva",
+  "author": "Egor Yurchenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ElizavetaKoroleva/npm-scripts/issues"
+    "url": "https://github.com/EgorYurchenko-Aero/npm_scripts/issues"
   },
-  "homepage": "https://github.com/ElizavetaKoroleva/npm-scripts#readme",
+  "homepage": "https://github.com/EgorYurchenko-Aero/npm_scripts#readme",
   "devDependencies": {
     "autoprefixer": "^9.6.1",
     "browser-sync": "^2.26.7",
